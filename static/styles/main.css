@@ -103,6 +103,7 @@ body{
     margin: 2px;
     background-color: rgba(198, 202, 219, 1);
     position: relative;
+    
 }
 
 .video-player{
@@ -142,7 +143,7 @@ body{
     justify-content: center;
     column-gap: 1em;
     position: fixed;
-    bottom: 20px;
+    bottom: 100px;
 }
 
 .control-icon{
@@ -158,3 +159,13 @@ body{
 #leave-btn{
     background-color: rgb(255, 80, 80, 1);
 }
+
+.footer {
+    font-size: 14px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(232,233,239,1);
+    color: rgb(168, 167, 167);
+    text-align: center;
