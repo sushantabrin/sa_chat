@@ -5,6 +5,8 @@ A group video calling application using the Agora Web SDK with Django backend
 
 ![Screenshot 2022-01-16 185152](https://user-images.githubusercontent.com/97043022/149661821-becf13a4-d03c-4a5b-81fa-58194c6000da.jpg)
 
+**Create a New Room or Join an Existing One**
+
 # UPTO 10 MEMBERS IN SAME ROOM!
 
 
